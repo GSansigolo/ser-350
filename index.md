@@ -6,16 +6,16 @@ permalink: /
 ---
 
 <p align="center">
-  <img src="assets/images/logo_mcti_horizontal_positiva_02.png" alt="Logotipo MCTI" width="600">
+  <img src="assets/images/logo_mcti_horizontal_positiva_02.png" alt="Logotipo MCTI" width="300">
 </p>
 
 ## Pós Graduação em Sensoriamento Remoto e Computação Aplicada
 
 <p align="center">
-  <img src="assets/images/logo_cap_ser.png" alt="Banner Introdução à Geoinformática" width="800">
+  <img src="assets/images/logo_cap_ser.png" alt="Banner Introdução à Geoinformática" width="400">
 </p>
 
-# **Introdução à Geoinformática - SER 350-3 & CAP 395-3**
+## **Introdução à Geoinformática - SER 350-3 & CAP 395-3**
 
 Na era do big data, o domínio da geoinformática é essencial para pesquisadores. Esta disciplina apresenta conceitos fundamentais de representação de dados espaciais, bancos de dados geográficos e análise computacional aplicada.
 
