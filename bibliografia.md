@@ -8,8 +8,6 @@ nav_order: 3
 
 ### **BIBLIOGRAFIA BÁSICA**
 
-| Referência |
-| --- |
 | Ferreira, K. R., et al. “Earth Observation Data Cubes for Brazil: Requirements, Methodology and Products”. Remote Sens. 2020, 12, 4033. |
 | Gomes, V. C. F.; Queiroz, G. R.; Ferreira, K. R. “An Overview of Platforms for Big Earth Observation Data Management and Analysis”. Remote Sens. 2020, 12, 1253. |
 | Vinhas, Lubia, et al. “Web Services for Big Earth Observation data”. GeoInfo. (2016). |
@@ -31,8 +29,6 @@ nav_order: 3
 
 ### **BIBLIOGRAFIA DE APOIO**
 
-| Referência |
-| --- |
 | Assad, E. D.; Sano, E. E., (Eds.) Sistema de Informações geográficas: Aplicações na Agricultura. Brasilia, SPI-EMBRAPA, 2 edição, 1998. |
 | Câmara, G.; Casanova, M.A.; Medeiros, C. B.; Hemerly, A.; Magalhães, G. Anatomia de Sistemas de Informação Geográfica. Curitiba, Sagres Editora, 1997. |
 | Chrisman, N., Exploring Geographic Information Systems. New York, John Wiley & Sons, 1997. |
@@ -45,8 +41,6 @@ nav_order: 3
 
 ### **LEITURAS ADICIONAIS**
 
-| Referência |
-| --- |
 | See, Linda, et al. “Crowdsourcing, citizen science or volunteered geographic information? The current state of crowdsourced geographic information”. ISPRS International Journal of Geo-Information 5.5 (2016): 55. |
 | Siabato, Willington, et al. “A Survey of Modelling Trends in Temporal GIS.” ACM Computing Surveys (CSUR) 51.2 (2018): 30. |
 | Stonebraker, M.; et al. “The architecture of SciDB”. In Proceedings of the 23rd international conference on SSDBM’11. Springer-Verlag, 2011. |
@@ -57,8 +51,6 @@ nav_order: 3
 
 #### **Um Pouco de Brasil**
 
-| Referência |
-| --- |
 | XAVIER DA SILVA, J.; ALMEIDA, L.F.B.; CARVALHO, L.M. “Geomorfologia e Geoprocessamento”. In: Geomorfologia: Exercícios, Técnicas e Aplicações. Bertrand Brasil, 1996. |
 | Gilberto Câmara. Desenvolvimento de Sistemas de Informação Geográfica no Brasil: Desafios e Oportunidades. Palestra, Outubro de 1996. |
 | Jorge Xavier da Silva. Geomorfologia, Analise Ambiental e Geoprocessamento. Revista Brasileira de Geomorfologia Volume l, n.1 (2000). |
@@ -68,8 +60,6 @@ nav_order: 3
 
 #### **Um Pouco do Mundo**
 
-| Referência |
-| --- |
 | Tomlinson, R. F. 1962 Computer Mapping: An Introduction to the Use of Electronic Computers... Evaluation of Marginal Lands. |
 | R.F. Tonlinson. AN INTRODUCTION TO THE GEO-INFORMATION SYSTEM OF THE CANADA LAND INVENTORY. Minister of Forestry and Rural Development, 1967. |
 | Nick Chrisman. Charting the Unknown: How computer mapping at Harvard became GIS. Book. 2005. Capitulo 1. |

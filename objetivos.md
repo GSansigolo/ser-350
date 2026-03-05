@@ -3,7 +3,8 @@ layout: default
 title: Objetivos
 nav_order: 2
 ---
-# OBJETIVOS
+
+# **OBJETIVO**
 
 Essa disciplina visa **apresentar conceitos, metodologias e ferramentas na área de Geoinformática**. Essa área do conhecimento trata da aplicação de métodos computacionais para solução de problemas que envolvem fenômenos sobre a superfície da Terra, e que são dinâmicos no tempo e no espaço.
 
