@@ -1,0 +1,6 @@
+title: SER-350 / CAP-395
+description: Introdução à Geoinformática
+remote_theme: just-the-docs/just-the-docs
+logo: /assets/images/satellite.png
+nav_enabled: true
+footer_content: "© 2026 INPE - Pós Graduação em Sensoriamento Remoto e Computação Aplicada"
