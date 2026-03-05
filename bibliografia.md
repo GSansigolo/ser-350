@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Biliografia
+title: Bibliografia
 nav_order: 3
 ---
 
