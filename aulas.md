@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ementa
+title: Aulas
 nav_order: 3
 ---
 # Aulas

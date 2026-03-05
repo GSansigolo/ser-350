@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ementa
+title: Recados
 nav_order: 3
 ---
 # Recados

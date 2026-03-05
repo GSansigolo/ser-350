@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ementa
+title: Atividades
 nav_order: 3
 ---
 # Atividades

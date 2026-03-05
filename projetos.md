@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ementa
+title: Projetos
 nav_order: 3
 ---
 # Projetos
