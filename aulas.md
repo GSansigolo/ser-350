@@ -15,7 +15,7 @@ nav_order: 3
 | **10/mar** | Apresentação do curso | Silvana Amaral | ppt_aula1 |  |
 | **12/mar** | Introdução aos dados geoespaciais | Édipo Cremon | GitHub - Lubia |  |
 | **17/mar** | Sistemas de referência espacial | Édipo Cremon | Aula2-Lubia |  |
-| **19/mar** | **FERIADO** | - | - | Perfil na wiki ALUNOS |
+| **19/mar** | **FERIADO** | - | - | - |
 | **24/mar** | Introdução prática a SIG | Édipo Cremon |  |  |
 | **26/mar** | Representação raster para dados geoespaciais | Édipo Cremon | A3-Raster |  |
 | **31/mar** | Introdução a Banco de Dados relacionais | Gilberto Queiroz | Notas_BDados |  |
@@ -24,7 +24,7 @@ nav_order: 3
 | **09/abr** | Análise geográfica | Eymar Lopes | Análises Geográficas |  |
 | **14/abr** | Análise geográfica | Eymar Lopes |  |  |
 | **16/abr** | IA para GEO | Édipo Cremon |  |  |
-| **21/abr** | **FERIADO** | - | - | Propostas de trabalhos |
+| **21/abr** | **FERIADO** | - | - | - |
 | **23/abr** | Introdução aos dados espaço-temporais | Karine Ferreira / Gabriel Sansigolo | Dados ST - Parte 1 |  |
 | **28/abr** | Introdução aos dados espaço-temporais | Karine Ferreira / Gabriel Sansigolo | Dados ST - Parte 2 |  |
 | **30/abr** | Cubos de dados e análise de séries temporais | Karine Ferreira / Gabriel Sansigolo |  |  |
