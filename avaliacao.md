@@ -9,7 +9,7 @@ nav_order: 5
 Os alunos do curso serão avaliados através de dois pilares principais:
 
 1.  **Atividades semanais (At)**: Exercícios propostos para temas específicos ao longo do semestre.
-2.  **Projeto de pesquisa (Pr)**: Trabalho prático, avaliado pela apresentação oral e monografia (formato de artigo).
+2.  **Projeto de pesquisa (Pr)**: Trabalho prático, avaliado pela apresentação oral e monografia.
 
 ---
 
@@ -29,32 +29,29 @@ O projeto de pesquisa visa aplicar os conhecimentos de Geoinformática em um tem
 
 O projeto será avaliado em duas partes:
 1.  **Apresentação Oral (Pr1)**: Slides em formato digital incluídos no link [Projetos](./projetos).
-2.  **Monografia (Pr2)**: Texto completo no formato de artigo científico (**Modelo Geoinfo**), entregue em formato digital no link [Projetos](./projetos).
+2.  **Monografia (Pr2)**: Texto completo no formato de artigo científico (**Modelo Geoinfo**), entregue no link [Projetos](./projetos).
 
 ---
 
 ### **Cálculo da Nota Final**
 
-A Nota Final ($NF$) é uma média ponderada calculada pela seguinte equação:
-
-$$NF = (0.4 \times At) + (0.2 \times Pr1) + (0.4 \times Pr2)$$
-
-**Legenda:**
-
-| Sigla | Descrição |
-| :--- | :--- |
-| **NF** | Nota Final |
-| **At** | Média das Atividades Semanais |
-| **Pr1** | Apresentação Oral do Trabalho Prático |
-| **Pr2** | Monografia (Artigo Final) |
+> ### $$NF = (0.4 \times At) + (0.2 \times Pr1) + (0.4 \times Pr2)$$
+>
+> | Componente | Descrição | Peso |
+> | :--- | :--- | :--- |
+> | **At** | Média das Atividades Semanais | **40%** |
+> | **Pr1** | Apresentação Oral (Projeto) | **20%** |
+> | **Pr2** | Monografia (Artigo Final) | **40%** |
 
 ---
 
-### **Critérios de Aprovação**
+### **Conversão para Conceitos**
 
-De acordo com as normas da Pós-Graduação, as notas serão convertidas em conceitos:
+Seguindo as normas da Pós-Graduação, a Nota Final ($NF$) será convertida nos seguintes conceitos:
 
-* **A** (Excelente): $NF \ge 9.0$
-* **B** (Bom): $7.5 \le NF < 9.0$
-* **C** (Regular): $6.0 \le NF < 7.5$
-* **D** (Reprovado): $NF < 6.0$
+| Conceito | Desempenho | Faixa de Nota |
+| :---: | :--- | :--- |
+| **A** | Excelente | $9.0 \le NF \le 10.0$ |
+| **B** | Bom | $7.5 \le NF < 9.0$ |
+| **C** | Regular | $6.0 \le NF < 7.5$ |
+| **D** | Reprovado | $NF < 6.0$ |
