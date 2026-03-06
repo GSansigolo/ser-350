@@ -33,7 +33,7 @@ O projeto será avaliado em duas partes:
 
 ---
 
-### **Cálculo da Nota Final**
+### **A Nota Final (NF) é uma ponderação como dada abaixo:**
 
 **NF = (0.4 * Ati) + (0.2 * Pr1) + (0.4 * Pr2)**
 
