@@ -35,13 +35,26 @@ O projeto será avaliado em duas partes:
 
 ### **Cálculo da Nota Final**
 
-A Nota Final (NF) é uma média ponderada calculada da seguinte forma:
+A Nota Final ($NF$) é uma média ponderada calculada pela seguinte equação:
 
 $$NF = (0.4 \times At) + (0.2 \times Pr1) + (0.4 \times Pr2)$$
 
-```text
-Onde:
-NF  -> NOTA FINAL
-At  -> Média das atividades semanais
-Pr1 -> Apresentação do Trabalho Prático
-Pr2 -> Monografia (Artigo Final)
+**Legenda:**
+
+| Sigla | Descrição |
+| :--- | :--- |
+| **NF** | Nota Final |
+| **At** | Média das Atividades Semanais |
+| **Pr1** | Apresentação Oral do Trabalho Prático |
+| **Pr2** | Monografia (Artigo Final) |
+
+---
+
+### **Critérios de Aprovação**
+
+De acordo com as normas da Pós-Graduação, as notas serão convertidas em conceitos:
+
+* **A** (Excelente): $NF \ge 9.0$
+* **B** (Bom): $7.5 \le NF < 9.0$
+* **C** (Regular): $6.0 \le NF < 7.5$
+* **D** (Reprovado): $NF < 6.0$
