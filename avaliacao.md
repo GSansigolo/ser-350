@@ -35,12 +35,10 @@ O projeto será avaliado em duas partes:
 
 ### **Cálculo da Nota Final**
 
-A Nota Final (NF) é uma ponderação como dada abaixo:
-
-$$NF = (0.4 \times Ati) + (0.2 \times Pr1) + (0.4 \times Pr2)$$
+**NF = (0.4 * Ati) + (0.2 * Pr1) + (0.4 * Pr2)**
 
 ```text
-NF   -> NOTA FINAL
-Ati  -> atividades semanais
-Pr1  -> apresentação do Trabalho Prático
-Pr2  -> monografia do Trabalho Prático
+     NF    -> NOTA FINAL
+     Ati   -> atividades semanais
+     Pr1   -> apresentação do Trabalho Prático
+     Pr2   -> monografia do Trabalho Prático
