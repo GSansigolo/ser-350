@@ -37,8 +37,7 @@ O projeto será avaliado em duas partes:
 
 **NF = (0.4 * Ati) + (0.2 * Pr1) + (0.4 * Pr2)**
 
-```text
-     NF    -> NOTA FINAL
-     Ati   -> atividades semanais
-     Pr1   -> apresentação do Trabalho Prático
-     Pr2   -> monografia do Trabalho Prático
+NF    -> NOTA FINAL
+Ati   -> atividades semanais
+Pr1   -> apresentação do Trabalho Prático
+Pr2   -> monografia do Trabalho Prático
