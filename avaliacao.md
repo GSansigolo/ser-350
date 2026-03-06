@@ -8,7 +8,7 @@ nav_order: 5
 
 Os alunos do curso serão avaliados através de dois pilares principais:
 
-1.  **Atividades semanais (At)**: Exercícios propostos para temas específicos ao longo do semestre.
+1.  **Atividades semanais (Ati)**: Exercícios propostos para temas específicos ao longo do semestre.
 2.  **Projeto de pesquisa (Pr)**: Trabalho prático, avaliado pela apresentação oral e monografia.
 
 ---
@@ -35,23 +35,12 @@ O projeto será avaliado em duas partes:
 
 ### **Cálculo da Nota Final**
 
-> ### $$NF = (0.4 \times At) + (0.2 \times Pr1) + (0.4 \times Pr2)$$
->
-> | Componente | Descrição | Peso |
-> | :--- | :--- | :--- |
-> | **At** | Média das Atividades Semanais | **40%** |
-> | **Pr1** | Apresentação Oral (Projeto) | **20%** |
-> | **Pr2** | Monografia (Artigo Final) | **40%** |
+A Nota Final (NF) é uma ponderação como dada abaixo:
 
----
+$$NF = (0.4 \times Ati) + (0.2 \times Pr1) + (0.4 \times Pr2)$$
 
-### **Conversão para Conceitos**
-
-Seguindo as normas da Pós-Graduação, a Nota Final ($NF$) será convertida nos seguintes conceitos:
-
-| Conceito | Desempenho | Faixa de Nota |
-| :---: | :--- | :--- |
-| **A** | Excelente | $9.0 \le NF \le 10.0$ |
-| **B** | Bom | $7.5 \le NF < 9.0$ |
-| **C** | Regular | $6.0 \le NF < 7.5$ |
-| **D** | Reprovado | $NF < 6.0$ |
+```text
+NF   -> NOTA FINAL
+Ati  -> atividades semanais
+Pr1  -> apresentação do Trabalho Prático
+Pr2  -> monografia do Trabalho Prático
