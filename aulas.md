@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aulas
-nav_order: 3
+nav_order: 6
 ---
 
 # **AULAS**
